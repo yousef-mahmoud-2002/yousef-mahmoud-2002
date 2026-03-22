@@ -2,17 +2,15 @@
 <h3 align="center">A passionate Flutter developer from Jordan</h3>
 
 
-- 🌱 I’m currently learning **Native Android Development**
-
 - 💬 Ask me about **Anything**
 
-- 📫 How to reach me **yousef.adulla.mahmoud@gmail.com**
+- 📫 How to reach me **yousef.abdulla.mahmoud@gmail.com**
 
 - 📄 Know about my experiences [https://tinyurl.com/6mejdnze](https://tinyurl.com/6mejdnze)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/yousef mahmoud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yousef mahmoud" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/yousef-mahmoud-652506278" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yousef mahmoud" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
